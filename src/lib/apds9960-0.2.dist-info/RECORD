@@ -1,0 +1,15 @@
+apds9960-0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+apds9960-0.2.dist-info/LICENSE,sha256=WJ7YI-moTFb-uVrFjnzzhGJrnL9P2iqQe8NuED3hutI,35141
+apds9960-0.2.dist-info/METADATA,sha256=0zNMFfdNZm8LzIbdVix12egftCwtUYdYmmGqZMtRmoA,2098
+apds9960-0.2.dist-info/RECORD,,
+apds9960-0.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+apds9960-0.2.dist-info/WHEEL,sha256=a-zpFRIJzOq5QfuhBzbhiA1eHTzNCJn8OdRvhdNX0Rk,110
+apds9960-0.2.dist-info/top_level.txt,sha256=D0XAyTKkV4qgmNb3A-qhLKYNsVnvnTVlL8Nh8tI4yjo,9
+apds9960/__init__.py,sha256=3IqWJUIqakW_KRU-qkNPFXxJWb7RxRE4ztqQEQGFFo8,88
+apds9960/__pycache__/__init__.cpython-310.pyc,,
+apds9960/__pycache__/const.cpython-310.pyc,,
+apds9960/__pycache__/device.cpython-310.pyc,,
+apds9960/__pycache__/exceptions.cpython-310.pyc,,
+apds9960/const.py,sha256=8dSQ08hUjISlRDPS6UZK8Hbf9lK6g9-R7KDwNncHb9I,5329
+apds9960/device.py,sha256=btX07g8MU_FT5lqyprKRZVwEhqm0H0vdeEWB9gn6cFk,37126
+apds9960/exceptions.py,sha256=7DAci30BXDZlKMeZ_z5WpWhyMCbotVJu4iXUEXMzsjU,401
