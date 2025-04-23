@@ -15,7 +15,7 @@ This is a team that competes in the future engineers category with the mission o
 - [x] completly original mechanics
 
 ## Things we changed
-- We changed the board (MOTION 2350 PRO) to an older one (Maker Pi 2040) since the one we were using had an error which affected a lot of the processes of programming because if we frequently uploaded a new code to the board, it would crash and everything would get corrupted. Sometimes we even needed to reinstall the microphyton firmware. This was so often that in the WRO Open Championship in October 2024 we had to stop updating the code at least 10 minutes before each round because it was too risky.
+- We changed the board (MOTION 2350 PRO) to an older one (Maker Pi 2040) since the one we were using had an error which affected a lot of the processes of programming because if we frequently uploaded a new code to the board, it would crash and everything would get corrupted. Sometimes we even needed to reinstall the MicroPhyton firmware. This was so often that in the WRO Open Championship in October 2024 we had to stop updating the code at least 10 minutes before each round because it was too risky.
 - We started the design of our new car using Autodesk Fusion a 3d designing app for mechanical engineering.
 - We decided to rewrite the color library do to the fact that it was very unorganized and looked kinda sloppy because the names of the definitions and the functions were written in a confusing way.
 
