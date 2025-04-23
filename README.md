@@ -19,7 +19,12 @@ This is a team that competes in the future engineers category with the mission o
 - We started the design of our new car using Autodesk Fusion a 3d designing app for mechanical engineering.
 - We decided to rewrite the color library do to the fact that it was very unorganized and looked kinda sloppy because the names of the definitions and the functions were written in a confusing way.
 
-## Tools used to assemble our autonomous robot car
+## Materials used to create the automous robot
+- 3d pinter filamnet
+- 1x Maker Pi 2040
+- 2x APDS9960 Proximity, Light, RGB and Gesture sensor
+
+## Tools used to assemble our autonomous robot 
 - 3D printer
 - screwdriver
 - sprue cutter
