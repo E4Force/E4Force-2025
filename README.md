@@ -23,7 +23,7 @@ This is a team that competes in the future engineers category with the mission o
 - 3d pinter filament (sourced from ebay)
 - 1x [Maker Pi 2040](https://www.adafruit.com/product/5129)
 - 2x [APDS9960 Proximity, Light, RGB and Gesture sensor](https://www.adafruit.com/product/3595)
-- 1x 35w JUOVI rechargeble battery (sourced from ebay)
+- 1x 35w JUOVI rechargeable battery (sourced from ebay)
 - 1x [TT motor 1:48](https://www.adafruit.com/product/3777) 
 - 1x MG90 servo (sourced from ebay)
 - 4x bearing 6702 (sourced from ebay)
