@@ -1,4 +1,4 @@
-Video
+https://youtube.com/shorts/GwPWbV2htlw?si=IHyPOQhPgsGXh6sE
 ====
 
 This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
