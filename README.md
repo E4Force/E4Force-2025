@@ -43,5 +43,5 @@ This is a team that competes in the future engineers category with the mission o
 - [Maker Pi 2040 CAD by Cytron](https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040)
 
 ## Our future plans
-We plan to continue working on programing and 3d modeling until we become the best we can at both of them. Building an outstanding autonomus car in a visual way and functioning way is a big plan that we have in store for the future. In the future we will build are own color sensors that will be better then the one's we currently have and will read faster.  
+We plan to continue working on programing and 3d modeling until we become the best we can at both of them. Building an outstanding autonomus car in a visual way and functioning way is a big plan that we have in store for the future. In the future we will build are own color sensors that will be better then the one's we currently have and will read faster. We will make our future car 4x4 and add more sensors since it would be more efectivr but we thought about that a little to late hince we will use it for the future.
 
