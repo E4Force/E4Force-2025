@@ -40,3 +40,7 @@ This is a team that competes in the future engineers category with the mission o
 - [APDS9960 CAD by Adafruit](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/3595%20APDS9960%20Sensor)
 - [TT motor CAD by Adafruit](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/3777%20TT%20Motor)
 - [Maker Pi 2040 CAD by Cytron](https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040)
+
+## Our future plans
+We plan to continue working on programing and 3d modeling until we become the best we can at both of them. Building an outstanding autonomus car in a visual way and functioning way is a big plan that we have in store for the future. In the future we will build are own color sensors that will be better then the one's we currently have and will read faster.  
+
