@@ -8,6 +8,7 @@ This is a team that competes in the future engineers category with the mission o
 - [x] [color library](/src/color.py)
 - [x] [motors library](/src/motors.py)
 - [x] [servo library](/src/servo.py)
+- [x] [hc_sr04 library](/src/hc_sr04.py)
 - [x] better documentation (better then last years documentation)
 - [x] team pictures
 - [x] [robot pictures](/v-photos/V1_car)
